@@ -1,0 +1,285 @@
+{
+    "categories": [
+      {
+        "name": "Smoothies",
+        "items": [
+          {
+            "name": "Creamy Watermelon Smoothie",
+            "ingredients": ["Watermelon", "Pineapple", "Banana", "Yogurt"],
+            "price": 1300
+          },
+          {
+            "name": "Sweet Avocado Smoothie",
+            "ingredients": ["Orange", "Pineapple", "Banana", "Avocado"],
+            "price": 1500
+          },
+          {
+            "name": "Sweet and Spicy Smoothie",
+            "ingredients": ["Watermelon", "Pineapple", "Ginger"],
+            "price": 1300
+          },
+          {
+            "name": "Smoothie Delight",
+            "ingredients": ["Pineapple", "Banana", "Apple", "Orange"],
+            "price": 1500
+          },
+          {
+            "name": "Papaya Citrus Zing",
+            "ingredients": ["Pawpaw", "Orange", "Ginger"],
+            "price": 1300
+          },
+          {
+            "name": "Sweet Cucumber",
+            "ingredients": ["Pineapple", "Cucumber", "Apple"],
+            "price": 1500
+          },
+          {
+            "name": "Green Smoothie",
+            "ingredients": ["Apple", "Banana", "Spinach/Kale", "Yogurt", "Cucumber"],
+            "price": 1500
+          }
+        ]
+      },
+      {
+        "name": "Juices",
+        "items": [
+          {
+            "name": "Pineapple juice", 
+            "ingredients": ["Pineapple"],
+            "price": 1500
+          },
+          {
+            "name": "Pineapple ginger",
+            "ingredients": ["Pineapple", "Ginger"],
+            "price": 1500
+          },
+          {
+            "name": "Watermelon juice", 
+            "ingredients": ["Watermelon"],
+            "price": 1300
+          },
+          {
+            "name": "Watermelon and Pineapple",
+            "ingredients": ["Pineapple", "Watermelon"],
+            "price": 1300
+          },
+          {
+            "name": "Orange juice", 
+            "ingredients": ["Orange"],
+            "price": 1300
+          },
+          {
+            "name": "Carrot/Pineapple/Orange/Ginger",
+            "ingredients": ["Carrot", "Pineapple", "Orange", "Ginger"],
+            "price": 1500
+          },
+          {
+            "name": "Carrot and Pineapple", 
+            "ingredients": ["Carrot", "Pineapple"],
+            "price": 1300
+          },
+          {
+            "name": "Pineapple/Orange",
+            "ingredients": ["Pineapple", "Orange"],
+            "price": 1500
+          },
+          {
+            "name": "Pineapple/Apple", 
+            "ingredients": ["Pineapple", "Apple"],
+            "price": 1800
+          },
+          {
+            "name": "Apple juice",
+            "ingredients": ["Apple"],
+            "price": 1800
+          },
+          {
+            "name": "Detox juice",
+            "ingredients": ["Apple", "Spinach/Kale"],
+            "price": 1500
+          }
+        ]
+      },
+      {
+        "name": "Tigernut Milk",
+        "items": [
+          {
+            "name": "With coconut and dates", 
+            "ingredients": ["Tiger nut", "Coconut", "Dates"],
+            "price": 1300
+          },
+          {
+            "name": "With coconut, dates and ginger",
+            "ingredients": ["Tiger nut", "Coconut", "Dates", "Ginger"],
+            "price": 1300
+          },
+          {
+            "name": "With coconut, dates and cocoa powder",
+            "ingredients": ["Tiger nut", "Coconut", "Dates", "Cocoa"],
+            "price": 1500
+          },
+          {
+            "name": "With coconut, dates and banana",
+            "ingredients": ["Tiger nut", "Coconut", "Dates", "Banana"],
+            "price": 1500
+          }
+        ]
+      },
+      {
+        "name": "Yogurt and Parfait",
+        "items": [
+          {
+            "name": "Small Cup Parfait with Plain Yogurt", 
+            "ingredients": ["Fruits", "Natural Yogurt"],
+            "price": 2500
+          },
+          {
+            "name": "Big Cup Parfait with Plain Yogurt",
+            "ingredients": ["Fruits", "Natural Yogurt"],
+            "price": 3000
+          },
+          {
+            "name": "Parfait Bowl with Plain Yogurt", 
+            "ingredients": ["Fruits", "Natural Yogurt"],
+            "price": 3500
+          },
+          {
+            "name": "Small Cup Parfait with Greek Yogurt",
+            "ingredients": ["Fruits", "Greek Yogurt"],
+            "price": 3000
+          },
+          {
+            "name": "Big Cup Parfait with Greek Yogurt", 
+            "ingredients": ["Fruits", "Greek Yogurt"],
+            "price": 3500
+          },
+          {
+            "name": "Plain Yogurt 250ml",
+            "ingredients": ["Natural Yogurt"],
+            "price": 1800
+          },
+          {
+            "name": "Plain Yogurt 500ml",
+            "ingredients": ["Natural Yogurt"],
+            "price": 2000
+          },
+          {
+            "name": "Plain Yogurt 1l",
+            "ingredients": ["Natural Yogurt"],
+            "price": 3500
+          },
+          {
+            "name": "Greek Yogurt 250ml",
+            "ingredients": ["Greek Yogurt"],
+            "price": 1800
+          },
+          {
+            "name": "Greek Yogurt 500ml",
+            "ingredients": ["Greek Yogurt"],
+            "price": 3000
+          },
+          {
+            "name": "Greek Yogurt 1l",
+            "ingredients": ["Greek Yogurt"],
+            "price": 6000
+          },
+          {
+            "name": "Small Granola",
+            "ingredients": ["Nuts", "Oats"],
+            "price": 2200
+          },
+          {
+            "name": "Medium Granola",
+            "ingredients": ["Nuts", "Oats"],
+            "price": 4000
+          },
+          {
+            "name": "Big Granola",
+            "ingredients": ["Nuts", "Oats"],
+            "price": 7000
+          },
+          {
+            "name": "Coconut Flakes",
+            "ingredients": ["Coconut"],
+            "price": 600
+          },
+          {
+            "name": "Extra toppings starting from",
+            "price": 600
+          }
+        ]
+      },
+      {
+        "name": "Salads",
+        "items": [
+          {
+            "name": "Grilled Chicken Salad",
+            "ingredients": ["Lettuce", "Chicken"],
+            "price": 3000
+          },
+          {
+            "name": "Peppered Chicken Salad",
+            "ingredients": ["Lettue", "Chicken", "Pepper"],
+            "price": 3000
+          },
+          {
+            "name": "Tuna Salad",
+            "ingredients": ["Lettuce", "Tuna"],
+            "price": 3500
+          },
+          {
+            "name": "Spicy Shrimp Salad",
+            "ingredients": ["Lettuce", "Shrimps"],
+            "price": 4000
+          },
+          {
+            "name": "Grilled Chicken with Tuna",
+            "ingredients": ["Lettuce", "Chicken", "Tuna"],
+            "price": 3500
+          },
+          {
+            "name": "Peppered Steak Salad",
+            "ingredients": ["Lettuce", "Beef", "Pepper"],
+            "price": 3000
+          },
+          {
+            "name": "Fruit Salad",
+            "ingredients": ["Apple", "Banana", "Pineapple", "Watermelon"],
+            "price": 1800
+          }
+        ]
+      },
+      {
+        "name": "Kids' Special",
+        "items": [
+          {
+            "name": "Pineapple",
+            "ingredients": ["Pineapple"],
+            "price": 800
+          },
+          {
+            "name": "Pineapple and Orange",
+            "ingredients": ["Pineapple", "Orange"],
+            "price": 800
+          },
+          {
+            "name": "Pineapple and Watermelon",
+            "ingredients": ["Pineapple", "Watermelon"],
+            "price": 800
+          },
+          {
+            "name": "Watermelon",
+            "ingredients": ["Watermelon"],
+            "price": 800
+          },
+          {
+            "name": "Orange",
+            "ingredients": ["Orange"],
+            "price": 800
+          }
+        ]
+      }
+    ]
+  }
+
+  
